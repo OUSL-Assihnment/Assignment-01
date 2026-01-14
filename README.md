@@ -1,2 +1,1 @@
-# Assignment-01
-Python Greeting Message assignment 
+This is a COE3200 assignment in Python.
